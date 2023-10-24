@@ -1,5 +1,5 @@
 # ElasticDump
-Dump Elastic Search data if the authentication is disabled.
+A simple script to dump Elastic Search data if the authentication is disabled.
 
 - `Help` Menu
 ```
